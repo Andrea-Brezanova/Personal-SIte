@@ -3,7 +3,7 @@ body {
     background-color: #FEFEFE;
 }
 
-.rounded{
-    
-    border-radius:50% !important; 
-   }
+.navbar {
+    background-color: #9aabce !important;
+}
+
