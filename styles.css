@@ -1,0 +1,9 @@
+body {
+    font-family: 'Roboto', sans-serif; 
+    background-color: #FEFEFE;
+}
+
+.rounded{
+    
+    border-radius:50% !important; 
+   }
